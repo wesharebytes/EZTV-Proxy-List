@@ -28,7 +28,7 @@ Many countries continue to try to restrict access to EZTV for many reasons. But 
 EZTV's mirror sites make it easy for users to view their favorite content. If you receive a Cloudflare 522 error notification every time you want to access EZTV, it means that there is a problem with the hosting.
 
 *********
-# How to unblock EZTV
+How to unblock EZTV
 *********
 
 Torrent tracking sites are generally blocked in two ways:
