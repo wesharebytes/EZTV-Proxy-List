@@ -78,8 +78,11 @@ Often times, the only blocking implemented by ISPs is only at the DNS level. DNS
 The following public DNS servers are then used:
 
 **Google DNS**: 8.8.8.8 | 8.8.4.4
+
 **OpenDNS**: 208.67.222.222 | 208,67,220,220
+
 **Comodo DNS**: 8.26.56.26 | 8.20.247.20
+
 We can change the DNS server through the network settings and soon we will be able to access all the websites that are blocked by all the ISPs.
 
 To change the DNS server:
