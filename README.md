@@ -51,6 +51,9 @@ Unfortunately, many of these sites (like kproxy.com) block torrent sites themsel
 So the best option is to use a torrent unblocking proxy site:
 
 - https://unblockninja.com
+- https://proxyninja.org
+- https://torrentsbay.org
+- https://abcproxy.org
 
 There are several of these websites. Most are versatile and allow you to unblock a number of commonly blocked categories such as YouTube, social media, and torrent websites.
 
