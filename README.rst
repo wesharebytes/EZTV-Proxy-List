@@ -16,9 +16,15 @@ In practice, it doesn’t matter if you connect to EZTV through a proxy server o
 Top EZTV Proxy and Mirror Sites:
 *********
 
-`EZTV Proxy 1 <https://eztv.torrentbay.to/>`_
+`EZTV Proxy 1 <https://eztv.torrentsbay.org/>`_
 
 `EZTV Proxy 2 <https://eztv.unblockninja.com/>`_
+
+`EZTV Proxy 3 <https://eztv.proxyninja.org/>`_
+
+`EZTV Proxy 4 <https://eztv.proxyninja.net/>`_
+
+`EZTV Proxy 5 <https://eztv.abcproxy.org/>`_
 
 *********
 Is EZTV blocked in my country?
@@ -57,6 +63,9 @@ Unfortunately, many of these sites (like kproxy.com) block torrent sites themsel
 So the best option is to use a torrent unblocking proxy site:
 
 - https://unblockninja.com
+- https://proxyninja.org
+- https://torrentsbay.org
+- https://abcproxy.org
 
 There are several of these websites. Most are versatile and allow you to unblock a number of commonly blocked categories such as YouTube, social media, and torrent websites.
 
