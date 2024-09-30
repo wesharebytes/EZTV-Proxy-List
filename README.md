@@ -5,7 +5,7 @@ The EZTV site is the best source where you can download TV torrents. If your ISP
 # EZTV Proxies
 
 Perhaps the easiest way to access the site is through EZTV proxy servers. A proxy server is a server that acts as an intermediary for requests from clients seeking resources from other servers. When you access EZTV through a proxy, outside observers only see that you are connected to the proxy and do not see that the proxy is passing EZTV data to you.
-EZTV proxies are sometimes mistaken for EZTV mirrors. An EZTV mirror is simply a clone of the original site with a different domain name and servers. An EZTV proxy, on the other hand, is a separate website that allows you to easily connect to the original EZTV, and often other websites as well.
+EZTV proxies are sometimes mistaken for EZTV mirrors. An EZTV mirror is simply a clone of the original site with a different domain name and servers. An [EZTV proxy](https://technonguide.com/eztv-proxy/), on the other hand, is a separate website that allows you to easily connect to the original EZTV, and often other websites as well.
 In practice, it doesn't matter whether you connect to EZTV through a proxy or use an EZTV mirror, as both provide roughly the same amount of privacy.
 
 
