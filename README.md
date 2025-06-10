@@ -21,6 +21,9 @@ In practice, it doesn't matter whether you connect to EZTV through a proxy or us
 Remember, these URLs may change over time due to various reasons. So, if one doesn't work, don't worry! You can always search for updated proxy sites with a quick internet search.
 
 
+![EZTV Proxy](https://github.com/wesharebytes/EZTV-Proxy-List/blob/master/eztvx_proxy.jpg)
+
+
 # Is EZTV blocked in my country?
 Many countries continue to try to restrict access to EZTV for many reasons. But sometimes the tracker becomes unavailable for a while. However, they always advertise on their site when internal problems arise. However, these internal issues have been successfully resolved by mirrored websites that allow you to access EZTV even if it has been blocked.
 
