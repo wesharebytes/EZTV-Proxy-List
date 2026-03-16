@@ -1,5 +1,5 @@
 ##################
-EZTV Proxy – 100% Working New Mirror Sites 2025
+EZTV Proxy – 100% Working New Mirror Sites 2026
 ##################
 
 The EZTV site is the best source where you can download TV torrents. If your ISP blocks eztv or for some reason cannot access it, just go to one of the `EZTV proxy sites <http://wesharebytes.com/eztv-proxy-list-unblocked-eztv-mirror-sites-2020/>`_ article. You will get instant access through the EZTV mirror so that you can download all the multimedia content you need.
@@ -19,7 +19,7 @@ Top EZTV Proxy and Mirror Sites:
 
 `EZTV Proxy 1 <https://eztv.torrentsbay.org/>`_
 
-`EZTV Proxy 2 <https://eztv.unblockninja.com/>`_
+`EZTV Proxy 2 <https://eztv.unblockninja.st/>`_
 
 `EZTV Proxy 3 <https://eztv.proxyninja.org/>`_
 
